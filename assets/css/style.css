@@ -793,22 +793,22 @@ a {
 }
 
 .staff__media::before {
-    content: url(/assets/img/staff-decor-01.svg);
+    content: url(../img/staff-decor-01.svg);
     position: absolute;
     bottom: 0;
 }
 
 .staff__card:nth-child(2) .staff__media::before {
-    content: url(/assets/img/staff-decor-02.svg);
+    content: url(../img/staff-decor-02.svg);
 }
 
 .staff__card:nth-child(3) .staff__media::before {
-    content: url(/assets/img/staff-decor-03.svg);
+    content: url(../img/staff-decor-03.svg);
     bottom: 0;
 }
 
 .staff__card:nth-child(4) .staff__media::before {
-    content: url(/assets/img/staff-decor-04.svg);
+    content: url(../img/staff-decor-04.svg);
 }
 
 .staff__card:nth-child(2) .staff__media::before,
@@ -986,7 +986,7 @@ a {
 }
 
 .pricing__item-item::before {
-    content: url(/assets/icons/pricing-check.svg);
+    content: url(../icons/pricing-check.svg);
     margin-right: 12px;
 }
 
@@ -996,7 +996,7 @@ a {
 .pricing__item:nth-of-type(2) .pricing__item-item:nth-child(5)::before,
 .pricing__item:nth-of-type(2) .pricing__item-item:nth-child(6)::before,
 .pricing__item:nth-of-type(2) .pricing__item-item:nth-child(7)::before {
-    content: url(/assets/icons/pricing-check_opacity.svg);
+    content: url(../icons/pricing-check_opacity.svg);
 }
 
 .pricing__item-item + .pricing__item-item {
