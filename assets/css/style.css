@@ -986,7 +986,7 @@ a {
 }
 
 .pricing__item-item::before {
-    content: url(/assets/icons/check.svg);
+    content: url(/assets/icons/pricing-check.svg);
     margin-right: 12px;
 }
 
@@ -996,7 +996,7 @@ a {
 .pricing__item:nth-of-type(2) .pricing__item-item:nth-child(5)::before,
 .pricing__item:nth-of-type(2) .pricing__item-item:nth-child(6)::before,
 .pricing__item:nth-of-type(2) .pricing__item-item:nth-child(7)::before {
-    content: url(/assets/icons/check_opacity.svg);
+    content: url(/assets/icons/pricing-check_opacity.svg);
 }
 
 .pricing__item-item + .pricing__item-item {
